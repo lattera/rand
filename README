@@ -1,0 +1,8 @@
+rand
+====
+
+This FreeBSD kernel module implements XKCD's random number generator.
+
+I took FreeBSD's existing /dev/null driver and refitted it for my purpose.
+
+Reference: http://xkcd.com/221/
